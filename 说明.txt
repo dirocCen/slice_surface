@@ -1,0 +1,4 @@
+POSCAR1        是原胞
+POSCAR4x4x4    是扩胞4x4x4
+001、011、111   是三个切面的poscar
+slice.py       是python执行文件
